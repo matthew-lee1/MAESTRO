@@ -1,7 +1,7 @@
 # MAESTRO
 
-<div align="center">
-  <img src="assets/image.png" alt="MAESTRO Architecture" width="600px"/>
+<div align="right">
+  <img src="assets/image.png" alt="MAESTRO Architecture" width="200px"/>
 </div>
 
 Unofficial, anonymous repository for MAESTRO: MAsked Encoding Set TRansformer with Self-DistillaiOn. The purpose of this code is for validation of the method, an official deanonymized repository will be published after decision.
