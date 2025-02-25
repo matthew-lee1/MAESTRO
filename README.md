@@ -1,4 +1,4 @@
-# MAESTRO - ICLR 2025
+# MAESTRO [ICLR 2025]
 
 <div align="center">
   <img src="assets/image.png" alt="MAESTRO Architecture" width="300px"/>
