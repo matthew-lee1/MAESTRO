@@ -18,9 +18,8 @@ Each patient sample is a *set* of tens of thousands of cells, each described by 
 4. [Instructions for use (your own data)](#4-instructions-for-use-your-own-data)
 5. [Reproducing the manuscript results](#5-reproducing-the-manuscript-results)
 6. [Repository structure](#6-repository-structure)
-7. [External references](#7-external-references)
-8. [License](#8-license)
-9. [Citation & contact](#9-citation--contact)
+7. [License](#7-license)
+8. [Citation & contact](#8-citation--contact)
 
 ---
 
@@ -268,20 +267,13 @@ MAESTRO/
 
 ---
 
-## 7. External references
-
-- DeepSets implementation inspired by: https://github.com/manzilzaheer/DeepSets
-- Set Transformer implementation inspired by: https://github.com/juho-lee/set_transformer
-
----
-
-## 8. License
+## 7. License
 
 This project is released under the [MIT License](LICENSE), an [Open Source Initiative](https://opensource.org/licenses/MIT)–approved license. See the [`LICENSE`](LICENSE) file for the full text.
 
 ---
 
-## 9. Citation & contact
+## 8. Citation & contact
 
 **Author:** Matthew E. Lee — `matthew.lee1@pennmedicine.upenn.edu`
 **Advisors:** E. John Wherry `wherry@pennmedicine.upenn.edu` & Dokyoon Kim `dokyoon.kim@pennmedicine.upenn.edu`
