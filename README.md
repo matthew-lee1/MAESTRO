@@ -1,12 +1,19 @@
 # MAESTRO
 
-<div align="center">
-  <img src="assets/image.png" alt="MAESTRO Architecture" width="300px"/>
-</div>
+<table>
+<tr>
+<td valign="top" width="70%">
 
 **MA**sked **E**ncoding **S**et **TR**ansformer with self-distillati**O**n — a self-supervised model that learns a single fixed-length representation of an entire cytometry (CyTOF/flow) sample directly from its unordered set of single cells, without requiring cell-level labels.
 
 Each patient sample is a *set* of tens of thousands of cells, each described by a vector of marker intensities. MAESTRO encodes that whole set into one latent embedding per sample. Those embeddings can then be used for downstream tasks such as patient-level diagnosis classification, regression on clinical variables, and cell-population interpretation.
+
+</td>
+<td valign="top" width="30%">
+  <img src="assets/image.png" alt="MAESTRO Architecture" width="300px"/>
+</td>
+</tr>
+</table>
 
 ---
 
