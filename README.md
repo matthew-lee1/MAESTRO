@@ -6,8 +6,6 @@
 
 Each patient sample is a *set* of tens of thousands of cells, each described by a vector of marker intensities. MAESTRO encodes that whole set into one latent embedding per sample. Those embeddings can then be used for downstream tasks such as patient-level diagnosis classification, regression on clinical variables, and cell-population interpretation.
 
----
-
 ## Table of contents
 
 1. [System requirements](#1-system-requirements)
