@@ -284,6 +284,6 @@ This project is released under the [MIT License](LICENSE), an [Open Source Initi
 ## 9. Citation & contact
 
 **Author:** Matthew E. Lee — `matthew.lee1@pennmedicine.upenn.edu`
-**Advisors:** E. John Wherry & Dokyoon Kim
+**Advisors:** E. John Wherry `wherry@pennmedicine.upenn.edu` & Dokyoon Kim `dokyoon.kim@pennmedicine.upenn.edu`
 
 If you use MAESTRO in your work, please cite the accompanying manuscript (citation to be added upon publication).
