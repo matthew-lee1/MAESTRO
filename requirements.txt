@@ -1,0 +1,21 @@
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+scikit-learn
+h5py
+tqdm
+umap-learn
+lightning
+geomloss
+entmax
+ipykernel
+ipywidgets
+
+# Optional / platform-specific — install separately if you need them:
+#   deepspeed  Required only for --accelerator cuda (the multi-GPU training path).
+#              Linux + CUDA; not installable on macOS.
+#   pykeops    Optional geomloss backend that speeds up the Sinkhorn loss on large cell
+#              sets. Needs a working C++ toolchain. geomloss falls back to a pure-PyTorch
+#              backend when it is absent, so the CPU/MPS demo does not require it.
