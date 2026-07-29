@@ -1,7 +1,7 @@
 # MAESTRO
 
 <div align="center">
-  <img src="assets/image.png" alt="MAESTRO Architecture" width="300px"/>
+  <img src="assets/maestro-hero.gif" alt="MAESTRO" width="480px"/>
 </div>
 
 **MA**sked **E**ncoding **S**et **TR**ansformer with self-distillati**O**n — a self-supervised model that learns a single fixed-length representation of an entire cytometry (CyTOF/flow) sample directly from its unordered set of single cells, without requiring cell-level labels.
